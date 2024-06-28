@@ -1,0 +1,206 @@
+/**common css**/
+body{
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    color:#555555 ;
+}
+/**common css**/
+/**header start**/
+
+header{
+    background-color: #fcdb00;
+    padding: 20px 0;
+
+     }
+header a{
+
+}
+.c_menue ul li a{
+    font-weight: 700 !important;
+    text-transform: capitalize;
+    font-size: 22px;
+    padding: 0 30px !important;
+    color: #010101 !important;
+
+
+}
+.c_menue ul li:last-child a{
+
+    padding-right: 0 !important;
+
+}
+.c_menue ul li a:hover{
+    color: white !important;
+
+}
+/**header end**/
+/**slider start**/
+.slider_section{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.custom_indicator {
+    
+    bottom: -73px;
+   
+}
+.custom_indicator [data-bs-target] {
+   
+    width: 15px;
+    border-radius: 50%;
+    height: 15px;
+    
+}
+  
+.slider_text{
+
+margin-top: 2.80cm;
+}
+.slider_text h1{
+
+color: #010101;
+
+font-size: 32px;
+
+font-weight: 700;
+}
+.slider_text h2{
+
+color: #313841;
+
+font-size: 20px;
+
+margin: 1.16cm 0;
+}
+.slider_text p{
+
+color: #555555;
+
+margin-bottom: 29px;
+}
+.s_icon ul li i:hover{
+    transform: scale(.8);
+
+}
+.s_icon ul li{
+    margin-right: 30px !important;
+
+
+}
+.s_icon i{
+    font-size: 42px;
+    color: #010101;
+    transition: .4s;
+    
+}
+.slide_img{
+    
+}
+/**slider end**/
+/* features section start */
+/* heading */
+.features{
+
+padding-top: 100px;
+
+padding-bottom: 120px;
+}
+.features_heading{
+
+}
+.feature_h1{
+
+font-size: 32px;
+
+font-weight: 700;
+
+color: #010101;
+
+margin-bottom: 15px;
+}
+.feature_p{
+    
+font-size: 20px;
+    
+color: #313841;
+    
+margin: 0;
+    
+line-height: 25px;
+}
+/* single item */
+.single_item{
+    
+padding-top: 80px;
+}
+.f_content_i{
+
+}
+.f_content_i i{
+    font-size: 50px;
+    
+}
+.f_content_text{
+
+}
+.single_content{
+
+}
+.single_content h2{
+    
+font-size: 22px;
+    
+font-weight: 700;
+    
+color: #010101;
+    
+margin-bottom: 20px;
+}
+.single_content p{
+    
+color: #898989;
+    
+font-size: 16px;
+    
+margin: 0;
+    
+letter-spacing: .8px;
+}
+
+/* features section end */
+/* contact us section  start */
+/* heading part */
+.contact_us{
+    background-color: #000000;
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.contact_us .f_heading_content h1{
+    color: #fcdb00;
+
+
+}
+.contact_us .f_heading_content p{
+    color: #898989;
+    
+}
+/* form part */
+.custom_form{
+
+}
+.c_input{
+
+}
+.c_submit{background-color: #fcdb00;
+    color: black;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 5px 20px;
+text-transform: uppercase;}
+
+
+/* contact us section  end */
+
+
+
+
